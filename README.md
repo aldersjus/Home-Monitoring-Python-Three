@@ -12,7 +12,7 @@ data to return from Firebase, so it is best to run the app file code first.
 
 This project was a continuation of two previous Python projects which were started due to various issues encountered with Android Things.
 
-[Android Things Repository](https://github.com/aldersjus/Home-Monitoring-Android-Things)
-[Python Part One](https://github.com/aldersjus/Home-Monitoring-Python)
-[Python Part Two](https://github.com/aldersjus/Home-Monitoring-Python-Two)
+*[Android Things Repository](https://github.com/aldersjus/Home-Monitoring-Android-Things)
+*[Python Part One](https://github.com/aldersjus/Home-Monitoring-Python)
+*[Python Part Two](https://github.com/aldersjus/Home-Monitoring-Python-Two)
 
